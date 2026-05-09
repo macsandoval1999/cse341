@@ -1,5 +1,5 @@
 # cse341
-Repository for CSE341
+Tutorial for how a node express projects works and how to set up a good developer server
 
 
 
